@@ -31,7 +31,7 @@ The goal is to build a strong, practical DevOps foundation through reproducible 
 ---
 
 ## 📂 Repository Structure
-´´´´
+```
 devops-labs/
 │
 ├── aws/
@@ -40,7 +40,7 @@ devops-labs/
 ├── kubernetes/
 ├── linux/
 └── scripts/
-´´´´
+```
 
 ### Folder descriptions
 
