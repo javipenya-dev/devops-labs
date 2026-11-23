@@ -33,3 +33,9 @@ This folder contains my **Linux exercises**, covering:
 
 To build a solid foundation in Linux system administration.
 
+# 🐧 Linux Fundamentals
+
+Welcome to my Linux lab. Here I document my hands-on practice and troubleshooting.
+
+## 📚 Lab Index
+- [Lab 01: Basic Commands and Permissions](./lab-01-permissions.md)
