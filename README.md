@@ -28,7 +28,9 @@ This repository contains my **DevOps learning labs**, exercises and hands‑on p
 
 The goal is to build a strong, practical DevOps foundation through reproducible examples and real-world workflows.
 
-```
+## 📂 Repository Structure
+
+```text
 devops-labs/
 │
 ├── aws/
@@ -73,9 +75,7 @@ Mi objetivo es crear ejemplos reproducibles y desarrollar una base sólida en te
 
 ---
 
-<p align="center">
-  <strong>Repository maintained by Javi Peña</strong>
-</p>
+<p align="center"> <strong>Repository maintained by Javi Peña</strong> </p> ```
 
 ---
 
