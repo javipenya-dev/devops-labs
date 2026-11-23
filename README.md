@@ -76,7 +76,3 @@ Mi objetivo es crear ejemplos reproducibles y desarrollar una base sólida en te
 ---
 
 <p align="center"> <strong>Repository maintained by Javi Peña</strong> </p> ```
-
----
-
-## 📂 Repository Structure
