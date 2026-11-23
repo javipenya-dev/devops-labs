@@ -28,7 +28,8 @@ This repository contains my **DevOps learning labs**, exercises and hands‑on p
 
 The goal is to build a strong, practical DevOps foundation through reproducible examples and real-world workflows.
 
-```devops-labs/
+```
+devops-labs/
 │
 ├── aws/
 ├── ci-cd/
