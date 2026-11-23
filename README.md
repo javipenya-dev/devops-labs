@@ -41,7 +41,7 @@ devops-labs/
 └── scripts/
 
 
-### Folder descriptions
+## Folder descriptions
 
 - **aws/** → AWS labs: EC2, S3, IAM, VPC, CLI  
 - **ci-cd/** → GitHub Actions pipelines and automation  
