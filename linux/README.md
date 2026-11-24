@@ -36,3 +36,4 @@ To build a solid foundation in Linux system administration.
 
 ## 📚 Lab Index
 - [Lab 01: Basic Commands and Permissions](./lab-01-permissions.md)
+- [Lab 02: Text Manipulation and Logs](./lab-02-text-manipulation.md)
